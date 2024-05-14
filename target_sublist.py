@@ -7,7 +7,7 @@ def tsublit(s, target):
     sum = 0
     for i in range(s):
         sum = sum + i
-
+        sum = 10
     return s
 
 
