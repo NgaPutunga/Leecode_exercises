@@ -1,4 +1,4 @@
-# This is the coding for Apple inc interview.
+
 # Hope everything goes well!
 # Author: Sean
 # May 13, 2024
@@ -15,6 +15,6 @@ if __name__ == '__main__':
     # print(fib_recu(n))
 
     # Q2
-    s = [1, 2, 3, 4]
-    target = 4
-    print(tsublit(s, target))
+    s = [1, 2, 3, 4, 5]
+    target = 10
+    print(tsublist(s, target))
