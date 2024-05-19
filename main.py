@@ -16,5 +16,5 @@ if __name__ == '__main__':
 
     # Q2
     s = [1, 2, 3, 4, 5]
-    target = 100
+    target = 10
     print(tsublist(s, target))
